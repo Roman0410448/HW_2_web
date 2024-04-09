@@ -1,0 +1,8 @@
+address: https://test-stand.gb.ru
+address_create: https://test-stand.gb.ru/posts/create
+sleep_time: 2
+browser: chrome
+username: Roman90
+password: f7983c2d7d
+sleep_time_1: 8
+
